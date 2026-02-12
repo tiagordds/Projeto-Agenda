@@ -4,7 +4,7 @@ Passo-a-passo:
 1. Clone o repositório:
 
 ```bash
-git clone [https://github.com/tiagordds/ecommmerce.git](https://github.com/tiagordds/Projeto-Agenda)
+git clone https://github.com/tiagordds/Projeto-Agenda
 cd Projeto_Agenda
 ```
 
